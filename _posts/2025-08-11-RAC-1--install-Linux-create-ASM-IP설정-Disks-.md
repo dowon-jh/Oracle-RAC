@@ -1,13 +1,7 @@
 # RAC (1) - install Linux, create ASM (IP설정, Disks)
 title: RAC (1) - install Linux, create ASM (IP설정, Disks)
-subtitle: 
-categories: 
-tags: 
-date: 2025-08-11 00:33:11 +0000
-last_modified_at: 2025-08-11 00:33:11 +0000
----
 
-나는 28,29번 가져감
+나는 28,29번 IP 가져감
 
 ## **Oracle Real Application Clusters 19c Technical Architecture**
 
